@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+    <h2>📈 My Data on my GitHub</h2>
+</div>
+
+<div align="center">
+  
+  [![tripodsgames's GitHub stats](https://github-readme-stats.vercel.app/api?username=tripodsgames&theme=dracula&line_height=28)](https://github.com/tripodsgames/github-readme-stats)
+  
+</div>
