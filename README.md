@@ -3,9 +3,9 @@
 </div>
 
 #### My name is André and
-- 🔭 I’m currently working as Full Stack Developer on [Reploy Soluções Corporativas](https://reploy.com.br)
+- 🔭 I’m currently working as a Full Stack Developer at [Reploy Soluções Corporativas](https://reploy.com.br)
 - 🌱 I’m currently learning Tsed, VueJS, NestJS and Rust.
-- 📫 How to reach me: I don't know
+- 📫 How to reach me: I don't know(🤠)
 - ⚡ Fun fact: I started programming at the age of 12(I guess?)
 
 <div align="center">
