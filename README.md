@@ -3,7 +3,7 @@
 </div>
 
 #### My name is André and
-- 🔭 I’m currently working as a Full Stack Developer at [Reploy Soluções Corporativas](https://reploy.com.br)
+- 🔭 I’m currently working as a Systems Development Analyst at [iBlue Consulting](https://www.iblueconsulting.com.br)
 - 🌱 I’m currently learning Tsed, VueJS, NestJS and Rust.
 - 📫 How to reach me: I don't know(🤠)
 - ⚡ Fun fact: I started programming at the age of 12(I guess?)
