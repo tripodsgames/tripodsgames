@@ -1,10 +1,10 @@
 <div align="center">
-<h1>Hi there 👋</h1>
+<h1>Mankind’s greatest fear is Mankind itself.</h1>
 </div>
 
 #### My name is André and
 - 🔭 I’m currently working as a Systems Development Analyst at [iBlue Consulting](https://www.iblueconsulting.com.br)
-- 🌱 I’m currently learning Svelte, VueJS, NestJS, Go and Rust.
+- 🌱 I’m currently learning Svelte, VueJS, NestJS, Golang and Rust.
 - 📫 How to reach me: I don't know(🤠)
 - ⚡ Fun fact: I started programming at the age of 12(I guess?)
 
